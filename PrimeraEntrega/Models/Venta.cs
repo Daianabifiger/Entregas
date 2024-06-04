@@ -4,15 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PrimeraEntrega
+namespace PrimeraEntrega.Models
 {
-    public abstract class Venta
+    public class Venta
     {
-        protected int Id { get; set; }
-        protected string Comentario { get; set; }
-        protected int IdUsuario { get; set; }
+        public int Id { get; set; }
+        public string Comentario { get; set; }
+        public int IdUsuario { get; set; }
 
+        public Venta() 
+        {
 
+        }
         public Venta (int id, string comentario, int idUsuario)
         {
             this.Id = id;

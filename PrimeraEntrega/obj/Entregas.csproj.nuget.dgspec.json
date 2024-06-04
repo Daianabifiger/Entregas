@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bifig\\Documents\\GitHub\\Entregas\\PrimeraEntrega\\PrimeraEntrega.csproj": {}
+    "C:\\Users\\bifig\\Documents\\GitHub\\Entregas\\PrimeraEntrega\\Entregas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bifig\\Documents\\GitHub\\Entregas\\PrimeraEntrega\\PrimeraEntrega.csproj": {
+    "C:\\Users\\bifig\\Documents\\GitHub\\Entregas\\PrimeraEntrega\\Entregas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bifig\\Documents\\GitHub\\Entregas\\PrimeraEntrega\\PrimeraEntrega.csproj",
-        "projectName": "PrimeraEntrega",
-        "projectPath": "C:\\Users\\bifig\\Documents\\GitHub\\Entregas\\PrimeraEntrega\\PrimeraEntrega.csproj",
+        "projectUniqueName": "C:\\Users\\bifig\\Documents\\GitHub\\Entregas\\PrimeraEntrega\\Entregas.csproj",
+        "projectName": "Entregas",
+        "projectPath": "C:\\Users\\bifig\\Documents\\GitHub\\Entregas\\PrimeraEntrega\\Entregas.csproj",
         "packagesPath": "C:\\Users\\bifig\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\bifig\\Documents\\GitHub\\Entregas\\PrimeraEntrega\\obj\\",
         "projectStyle": "PackageReference",
